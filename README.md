@@ -23,25 +23,6 @@ Em seguida rode o script "install_tts.sh"
 
 Aguarde até finalizar, após isso já pode fazer os testes em seu asterisk.
 
-Para quem usa o arquivo "extensions.conf" segue um exemplo:
-
-
-[contextogit]
-exten => _105,1,Noop(==== TESTE TTS GOOGLE =====)
-same => n,agi(googletts.agi,"Está é uma simples mensagem de teste do google TTS.",pt-BR)
-same => n,agi,Hungup()
-
-Para quem usa AEL(entensions.ael) segue um exemplo:
-
-context ivrgit {
-        s => {
-		lb_Answer:
-		Noop(==== TESTE TTS GOOGLE AEL =====);
-		AGI(googletts.agi,"Está é uma simples mensagem de teste do google TTS.",pt-BR);
-		HangUp();
-
-  }
-}
 
 Espero que ajude, abraço!
 
