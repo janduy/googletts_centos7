@@ -23,6 +23,7 @@ Em seguida rode o script "install_tts.sh"
 
 Aguarde até finalizar, após isso já pode fazer os testes em seu asterisk.
 
+No arquivo "dialplan_exemplos" estão os exemplos de dialplan para validar seu googletts.
 
 Espero que ajude, abraço!
 
