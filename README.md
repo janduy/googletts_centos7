@@ -25,6 +25,7 @@ Aguarde até finalizar, após isso já pode fazer os testes em seu asterisk.
 
 Para quem usa o arquivo "extensions.conf" segue um exemplo:
 
+
 [contextogit]
 exten => _105,1,Noop(==== TESTE TTS GOOGLE =====)
 same => n,agi(googletts.agi,"Está é uma simples mensagem de teste do google TTS.",pt-BR)
