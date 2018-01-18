@@ -1,0 +1,8 @@
+Autor: Janduy Euclides
+E-mail: janduyeuclides@gmail.com
+
+
+Este repositorio do MPG123 é para se caso quiser instalar direto RPM.
+
+[Comando]
+# rpm -ivh mpg123-1.20.1-1.x86_64.rpm

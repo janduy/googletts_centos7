@@ -1,0 +1,7 @@
+[home_csbuild_Perl]
+name=Perl Modules (CentOS_7)
+type=rpm-md
+baseurl=http://download.opensuse.org/repositories/home:/csbuild:/Perl/CentOS_7/
+gpgcheck=1
+gpgkey=http://download.opensuse.org/repositories/home:/csbuild:/Perl/CentOS_7/repodata/repomd.xml.key
+enabled=1

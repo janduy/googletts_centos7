@@ -1,0 +1,5 @@
+[goautodial-testwin]
+name=CentOS-$releasever - Goautodial - TestWin
+baseurl=http://downloads2.goautodial.org/centos/$releasever/testwin/$basearch/
+enabled=1
+gpgcheck=0
