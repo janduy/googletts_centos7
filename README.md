@@ -2,7 +2,7 @@
 Instalando o TTS do Google no CentOS7 
 
 Requisitos: 
-Antes de seguir com o download e instalação tenha certeza que o asterisk esteja instalado em seu servidor linux CentOS7.
+Antes de seguir com o download e instalação tenha certeza que o asterisk esteja instalado em seu servidor linux CentOS7, é importante ressaltar que o script faz a atualização do sistema linux, se caso tiver algum problema quanto a isso não rode o script "install_tts.sh".
 
 Descrição:
 Este é um script padrão de instalação,download e configuração do TTS do Google para o uso com o asterisk, fique a vontade para fazer melhorias no script que assim podemos compartilhar sempre o melhor. 
